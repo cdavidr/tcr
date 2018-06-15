@@ -1,8 +1,9 @@
 # Token-Curated Registry
 
-[ ![Codeship Status for skmgoldin/tcr](https://app.codeship.com/projects/b140cce0-ac77-0135-0738-52e8b96e2dec/status?branch=master)](https://app.codeship.com/projects/257003)
-
 A hash-keyed [token-curated registry (TCR)](https://medium.com/@ilovebagels/token-curated-registries-1-0-61a232f8dac7). [Owner's Manual available](https://github.com/skmgoldin/tcr/blob/master/owners_manual.md).
+
+## Fork Version
+Up to date with https://github.com/skmgoldin/tcr/tree/develop
 
 ## Initialize
 The only environmental dependency you need is Node. Presently we can guarantee this all works with Node 8.
